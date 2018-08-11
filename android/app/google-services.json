@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "217057400781",
+    "firebase_url": "https://elsaydalya-patient.firebaseio.com",
+    "project_id": "elsaydalya-patient",
+    "storage_bucket": "elsaydalya-patient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217057400781:android:50a31f188f23d7e6",
+        "android_client_info": {
+          "package_name": "com.taskmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217057400781-58hbern57u7ujrkf1qt3jq930o1dem40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Y8dXtxX6bseLRhxjNkrLo6GrUZVHeLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
